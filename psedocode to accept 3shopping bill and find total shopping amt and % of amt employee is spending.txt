@@ -1,0 +1,11 @@
+Begin
+numeric employeesalary,3 shopping bill
+print("enter the employee salary")
+input employee salary
+print("enter the 3 shopping bill")
+input 3 shopping bill
+total=shopping bill1+bill2+bill3
+percentage=(shoppingbill*100)/employeesalary
+print(total)
+print(percentage)
+end
